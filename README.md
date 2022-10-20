@@ -1,10 +1,9 @@
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
 <p> 
-I am Hubert Formin, a seasoned and independent self-taught full stack web developer, working in both backend and frontend technologies. 
-I love solving problems.
-I have experience in backend as well as frontent development and also
-Love competitive programming.
+I am Hubert Formin, a seasoned and independent self-taught full stack web developer, working in both frontend  and backend technologies. 
+I love creating immersive and engaging user experience through efficient development, feature optimization, and relentless debugging. 
+I am interested in UI design and creating aesthetic and usable interfaces.
 I am also confident with Data Structures and
 Algorithms, Object-Oriented Programming, Database
 Management Systems, Operating Systems
@@ -21,7 +20,7 @@ Management Systems, Operating Systems
   ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
   ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-13B9FD.svg?style=for-the-badge&logo=dart&logoColor=02569B)
   ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
@@ -34,15 +33,15 @@ Management Systems, Operating Systems
   ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
   ![jQuary](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
   ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-B52E31?style=for-the-badge&logo=angular&logoColor=white)
   ![GraphQl](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
   ![jwt](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-  ![Amp](https://img.shields.io/badge/Amp-000?style=for-the-badge&logo=amp&logoColor=005AF0)
+  ![Electron](https://img.shields.io/badge/Electron.js-%2320232a?style=for-the-badge&logo=electron&logoColor=white)
   ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
   ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-  ![Angular](https://img.shields.io/badge/Angular-B52E31?style=for-the-badge&logo=angular&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white)
+  ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
   ![Strapi](https://img.shields.io/badge/Strapi-3982CE?style=for-the-badge&logo=Strapi&logoColor=white)
 
 - 💾 Databases:
@@ -54,14 +53,16 @@ Management Systems, Operating Systems
 - 🎛️ Application and Tools:
 
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Webstorm](https://img.shields.io/badge/Webstorm-7dd395.svg?style=for-the-badge&logo=webstorm&logoColor=000)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![FIREBASE](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=FFA000)
   ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-  ![Razorpay](https://img.shields.io/badge/Stripe-02042B?style=for-the-badge&logo=stripe&logoColor=3395FF)
+  ![Docker](https://img.shields.io/badge/Docker-238fe0?style=for-the-badge&logo=Docker&logoColor=white)
+  ![Stripe](https://img.shields.io/badge/Stripe-02042B?style=for-the-badge&logo=stripe&logoColor=3395FF)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![mac](https://img.shields.io/badge/Mac%20OS-0078D6?style=for-the-badge&logo=apple&logoColor=white)
+  ![mac](https://img.shields.io/badge/Mac%20OS-ffffff?style=for-the-badge&logo=apple&logoColor=000)
   ![Figma](https://img.shields.io/badge/Figma-000.svg?style=for-the-badge&logo=Figma&logoColor=white)
  
 </p>
