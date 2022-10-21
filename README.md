@@ -86,7 +86,7 @@ Management Systems, Operating Systems
 
 <p align="center">
     <a href="https://github.com/Hubertformin"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hubertformin&theme=tokyonight&hide_border=true"  width="520" alt="Hubert Formin"/></a>
-<a href="https://github.com/Hubertformin"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amardeepkesharwani&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="Hubertformin"/></a>
+<a href="https://github.com/Hubertformin"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hubertformin&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="Hubertformin"/></a>
 </p>
 
 ## Connect with me
