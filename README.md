@@ -94,12 +94,9 @@ Management Systems, Operating Systems
 <a href="https://www.instagram.com/ui.hformin/" target="_blank">
 <img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=f02b9a&style=for-the-badge&logo=instagram&logoColor=white" t=instagram style="margin-bottom: 5px;" />
 </a>
- <a href="https://www.facebook.com/Hubertformin" target="_blank">
-<img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"  style="margin-bottom: 5px;" />
-</a>
- <a href="https://www.sololearn.com/Profile/9151475/?ref=app" target="_blank">
-<img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"  style="margin-bottom: 5px;" />
-</a>   
+ <a href="https://www.linkedin.com/in/hformin/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  style="margin-bottom: 5px;" />
+</a> 
 
  <!--
   <a href="https://linkedin.com/in/" target="_blank">
